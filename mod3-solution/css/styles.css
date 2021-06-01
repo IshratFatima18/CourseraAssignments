@@ -1,0 +1,178 @@
+body {
+  font-size: 16px;
+  color: #090909;
+  background-color: #white;
+  font-family: 'Oxygen', sans-serif;
+}
+/** HEADER **/
+#header-nav {
+  background-color: silver;
+  border-radius: 0;
+  border: 3px solid black;
+}
+
+
+.navbar-brand {
+  padding-top: 25px;
+}
+.navbar-brand h1 { /* brand name */
+  font-family: 'Lora', serif;
+  color: black;
+  font-size: 1.5em;
+  text-transform: unset;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+#nav-list {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+  background-color: white;
+
+  border: 1px black solid;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+
+}
+#collapsable-nav a { /* Collapsed nav menu text */
+    font-size: 1.2em;
+  }
+  #collapsable-nav a span { /* Collapsed nav menu glyph */
+    font-size: 1em;
+    margin-right: 5px;
+  }
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+  background-color: silver;
+}
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+  #nav-list {
+    display: none;
+  }
+  .navbar-brand {
+    height: 80px;
+    padding-top: 30px;
+  }
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {/*
+  .container .row .menu-item-description{
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+   Header */
+  #nav-list {
+    display: none;
+  }
+  .navbar-brand {
+    height: 80px;
+    padding-top: 30px;
+    }
+  }
+  /********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+  #nav-list {
+    display: none;
+  }
+  .navbar-brand {
+    height: 80px;
+    padding-top: 30px;
+    }
+  }
+/* END HEADER */
+/* Manu Title */
+.container-fluid .menu-item-description{
+  background-color: silver;
+   
+  margin: 20px;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  
+
+
+}
+.container-fluid h2 {
+  text-align: center;
+  font-family: 'Lora', serif;
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  line-height: .75;
+
+}
+.container-fluid h3 {
+  text-align: center;
+  font-family: 'Lora', serif;
+  color: black;
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  line-height: .75;
+
+}
+
+#menu-tile {
+  height: 250px;
+  width: auto;
+  margin-bottom: 15px;
+  position: relative;
+  border: 2px solid #3F0C1F;
+  overflow: hidden;
+}
+#menu-tile:hover {
+  box-shadow: 0 1px 5px 1px #cccccc;
+}
+#menu-tile {
+  background-position: center;
+}
+
+.category-tile { 
+  position: relative;
+  border: 2px solid #3F0C1F;
+  overflow: hidden;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto 15px;
+}
+
+.category-tile:hover {
+  box-shadow: 0 1px 5px 1px #cccccc;
+}
+
+#menu-categories-title + div {
+  margin-bottom: 50px;
+  color: black;
+}
+.menu-item-title{
+  text-align: center;
+  font-weight: bold;
+  padding-top: 1px;
+}
+.menu-item-description {
+  padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+/* END MAIN PAGE */
+
