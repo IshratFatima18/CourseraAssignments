@@ -10,11 +10,14 @@ local businesses in Baltimore, which doesn't have a good website, take down the 
 You have to pass all 5 peer graded assignments to complete the course.
 
  Peer-graded Assignment: Module 2 Coding Assignment<br>
-
+ [Here's the Solution](https://ishratfatima18.github.io/CourseraAssignments/mod2_solution/)
+ 
  Peer-graded Assignment: Module 3 Coding Assignment<br>
+ [Here's the Solution](https://ishratfatima18.github.io/CourseraAssignments/mod3-solution/)
 
  Peer-graded Assignment: Module 4 Coding Assignment<br>
+[Here's the Solution](https://ishratfatima18.github.io/CourseraAssignments/mod5-solution/index.html)
 
  Peer-graded Assignment: Module 5 Coding Assignment<br>
-
+[Here's the Solution](https://ishratfatima18.github.io/CourseraAssignments/mod5-solution/index.html)
 [Look](https://coursera.org/share/c6bfdf843926473fe4bcfb3a4d2a12f7) I passed this course with grade 99.30% 🎉🎉 
