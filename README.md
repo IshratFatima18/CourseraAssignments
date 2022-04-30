@@ -1,6 +1,6 @@
 # CourseraAssignments 
 <h1>HTML, CSS, and Javascript for Web Developers by Johns Hopkins University on Coursera</h1> <br>
-You can Join the course [here](https://www.coursera.org/learn/html-css-javascript-for-web-developers).
+You can Join the course [here](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 <a href="https://ishratUmar18.github.io/CourseraAssignments/mod5-solution/index.html"><img src="https://assets.codepen.io/932912/internal/screenshots/pens/jyBROj.default.png?fit=cover&format=auto&ha=false&height=540&quality=75&v=2&version=1485969646&width=960" 
 alt="David Chu's" style="width:100%" target="_blank"></a><br>
 In this course you will cover HTML5, CSS3, Twitter Bootstrap CSS Framework, which is the most widely used CSS framework today.<br><br>
