@@ -47,7 +47,7 @@ Make sure you see calls to the helloSpeaker and byeSpeaker objects.
  # Peer-graded Assignment: Module 5 Coding Assignment<br>
 [Here's the Solution](https://ishratUmar18.github.io/CourseraAssignments/mod5-solution/index.html) <br>
 
-[Look](https://coursera.org/share/c6bfdf843926473fe4bcfb3a4d2a12f7) I passed this course with grade 99.30% 🎉🎉 
+[See](https://coursera.org/share/c6bfdf843926473fe4bcfb3a4d2a12f7) I passed this course with grade 99.30% 🎉🎉 
 
 ### Give A Star ⭐
 Kindely consider staring this repo on top right corner of the page if you enjoy it and find it useful!
